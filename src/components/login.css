@@ -1,0 +1,21 @@
+.signin{
+  margin: auto;
+  background-color: gray;
+  margin-top: 100px;
+  width:500px;
+  height: 400px;
+  border-radius: 20px;
+}
+.signin input{
+  border-radius: 5px;
+}
+.signin button{
+  width: 150px;
+  border-radius: 8px;
+  background-color: darkcyan;
+  margin-left: 35%;
+}
+
+.log {
+  margin-left: 33%;
+}
